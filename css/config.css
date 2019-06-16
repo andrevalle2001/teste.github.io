@@ -1,0 +1,25 @@
+legend[id="field2"]{color:#f7a80c;font-size:40px;margin-left:37%;}
+
+label[id="name"]{font-size:25px;color:#f7a80c;font-weight:bold;margin-left:38.5%;}
+
+fieldset[id="field3"]{position:relative;background-color:#ffffff;margin-left:40px;margin-right:40px;border:2px solid #edb663;}
+
+fieldset[id="field2"]{margin-left:40px;margin-right:40px;border:2px solid #edb663;margin-top:40px;}
+
+legend[id="field3"]{color:#f7a80c;font-size:40px;margin-left:42%;}
+
+p[id="eu"]{margin-left:41%;}
+
+img[id="eu"]{border-radius:50%;}
+
+fieldset[id="field4"]{margin-left:40px;margin-right:40px;border:2px solid #edb663;}
+
+legend[id="field4"]{color:#f7a80c;font-size:40px;margin-left:36%;}
+
+p[id="field4"]{margin-left:39%;font-size:22px;font-weight:bold;color:#ffffff;}
+
+body{background-image: url("back.jpg"); background-size: cover;}
+
+
+	*{font-family:garamond;}
+
